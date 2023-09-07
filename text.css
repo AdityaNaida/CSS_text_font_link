@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.container{
+    height: 200px;
+    width: 300px;
+    border: 3px solid red;
+    padding: 10px 20px;
+}
+
+ .container p{
+    font-size: 15px ;
+    color: green;
+    background-color: yellow;
+    /* text-align: right; */
+    /* text-align: center; */
+    /* text-align: left; */
+    /* text-align: justify; */
+    /* text-align-last: center ; */
+    text-align-last: right ;
+} 
+
+.red{
+    color: red;
+    font-size: 5px;
+    /* vertical-align: text-top ; */
+    /* vertical-align: baseline ; */
+    /* vertical-align: text-bottom ; */
+    /* vertical-align: sub; */
+    /* vertical-align: sup; */
+}
